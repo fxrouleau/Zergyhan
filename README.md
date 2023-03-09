@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**Zergyhan/Zergyhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Felix from Quebec, Canada. I enjoy toying around with code on my free time and trying to learn new methods and technologies.
+I love back-end development, enjoying the whole implementation part. I'm trying to learn more front-end related software, as they're needed
+in a web-based environment and, to be honest, is needed to show off my work online (mostly with WASM) :sweat_smile:
 
-Here are some ideas to get you started:
+## Tech Stack
+AWS, C, C++, C#, Java, Jupyter, Python, :crab: Rust :crab:, Docker, Git, :hearts: Jetbrains :hearts:, sklearn,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## To learn
+D, Go, Kubernetes, Mobile Development, React, OpenGL, Unity, Unreal Engine, Vulcan, Webpack, Zig
+
+## Get Better At
+CI/CD, Node, Haskell, JavaScript/TypeScript,
