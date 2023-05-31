@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-I'm Felix from Quebec, Canada :canada:. I enjoy toying around with code on my free time and trying to learn new methods and technologies.
+I'm Felix from Quebec, Canada :canada:. I enjoy toying around with code on my free time and trying to learn new technologies.
 I love back-end development, enjoying the whole implementation part. I'm trying to learn more front-end related software, as they're needed
 in a web-based environment and, to be honest, is needed to show off my work online (mostly with WASM) :sweat_smile:
 
